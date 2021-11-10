@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable-v24/buy_now_bg.xml" value="0.1015625" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/button1_bg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/custom_button.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/custom_rectangle.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/custom_search_view.xml" value="0.13125" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/evenement_background.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/drawable/evenement_selected_backrground.xml" value="0.1" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_admin_home_page.xml" value="0.264" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_all_user.xml" value="0.3502377179080824" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_change_password.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_chart.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_checkalluser.xml" value="0.1" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_checkalluser2.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_home_page.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_qrcode.xml" value="0.4" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_reinitialiser_mdp.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_reservation.xml" value="0.264" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_retrouver_compte.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_signup.xml" value="0.4" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_signup2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_signup_evenement.xml" value="0.4" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activity_view_content_layout.xml" value="0.16" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/activityhomepage.xml" value="0.26036866359447003" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/interface2.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/21695/Desktop/MyApplication/app/src/main/res/layout/recycler_row.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
